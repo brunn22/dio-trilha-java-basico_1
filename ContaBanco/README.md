@@ -1,18 +1,23 @@
-## Getting Started
+## Desafio Trilha Dio
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto faz parte da Bootcamp Santander 2024 BackEnd com Java.
 
-## Folder Structure
+O desafio proposto consiste em uma simulação de uma conta bancária através do Terminal/Console.
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+###### Exemplo de dados a serem inseridos
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+| Atributo  | Tipo     | Exemplo   
+| --------- | ---------| ------- 
+| Numero    | Inteiro  | 1021 
+| Agencia   | Texto    | 067-8
+| Nome Cliente | Texto    | MARIO ANDRADE
+| Saldo | Decimal |237.48
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+A ordem de entrada dos dados consistem em:
+- Agência;
+- Número da conta;
+- Nome e sobrenome (como no exemplo acima) e;
+- Saldo.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+;
